@@ -21,7 +21,7 @@ public class JsonSender {
             String jsonMessage = "{\n" +
                     "    \"name\": \"Alice\",\n" +
                     "    \"age\": 30,\n" +
-                    "    \"city\": \"test\"\n" +
+                    "    \"city\": \"test2\"\n" +
                     "}";
 
             // Publication du message
